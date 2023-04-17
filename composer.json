@@ -1,5 +1,0 @@
-{
-    "require": {
-        "selective/xmldsig": "^2.4"
-    }
-}

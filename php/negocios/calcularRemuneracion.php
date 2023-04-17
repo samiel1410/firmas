@@ -15,6 +15,17 @@ $dec_tercero=0;
 $dec_cuarto=0;
 $fondo_reserva =41.65;
 $otros=0;
+$tipo_remuneracion=1;
+$dias = 0;
+$horas=0;
+$semana=1;
+$limite = 2;
+$sueldo_basico=500;
+$comision =0;
+$dec_tercero=0;
+$dec_cuarto=0;
+$fondo_reserva =41.65;
+$otros=0;
 
 
 

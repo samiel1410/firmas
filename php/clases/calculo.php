@@ -10,7 +10,7 @@ class metodosRemuneracion
         
         //semana
         if( $tipo_remuneracion){
-            //Remuneracion semanal
+            
 
         }
        
